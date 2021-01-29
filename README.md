@@ -1,6 +1,6 @@
 
 
- <img align="right" alt="GIF" src="https://media2.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://media2.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="400" height="220" />
 <h1 align="center">Hi 👋, I'm Ashutosh Ranjan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
