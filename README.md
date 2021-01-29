@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kumarashu493@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kumarashu493@gmail.com" height="30" width="40" /></a>
+<a href="https://twitter.com/kumashu493?s=09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kumarashu493@gmail.com" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100004277917881" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/profile.php?id=100004277917881" height="30" width="40" /></a>
 <a href="https://instagram.com/kumarashu493" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kumarashu493" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucou7zp1jchxr-f6jkdzkn5q" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/ucou7zp1jchxr-f6jkdzkn5q" height="30" width="40" /></a>
