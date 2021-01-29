@@ -1,4 +1,4 @@
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fweloveprogramming%2F&psig=AOvVaw0dJ9-Iw2gcMzSLHPtlsFyN&ust=1612030241121000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLC95-Hewe4CFQAAAAAdAAAAABAD
+
 
  <img align="right" alt="GIF" src="https://media2.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="500" height="320" />
 <h1 align="center">Hi 👋, I'm Ashutosh Ranjan</h1>
