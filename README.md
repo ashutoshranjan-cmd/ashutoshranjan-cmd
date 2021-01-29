@@ -23,7 +23,7 @@
 <a href="https://twitter.com/kumarashu493@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kumarashu493@gmail.com" height="30" width="40" /></a>
 <a href="https://fb.com/kumarashu493@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kumarashu493@gmail.com" height="30" width="40" /></a>
 <a href="https://instagram.com/kumarashu493" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kumarashu493" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtu.be/fEMAbKX4yVM" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="kumarashu493@gmail.com" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/UCOU7zP1JchxR-F6JkdzKn5Q" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="kumarashu493@gmail.com" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kumarashu493" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="kumarashu493" height="30" width="40" /></a>
 </p>
 
