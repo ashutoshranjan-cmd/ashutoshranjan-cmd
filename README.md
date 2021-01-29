@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashutoshranjan-cmd" alt="ashutoshranjan-cmd" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/kumarashu493@gmail.com" target="blank"><img src="https://img.shields.io/twitter/follow/kumarashu493@gmail.com?logo=twitter&style=for-the-badge" alt="kumarashu493@gmail.com" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kumashu493?s=09" target="blank"><img src="https://img.shields.io/twitter/follow/kumarashu493@gmail.com?logo=twitter&style=for-the-badge" alt="https://twitter.com/kumashu493?s=09" /></a> </p>
 
 - 🌱 I’m currently learning **python and html**
 
