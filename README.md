@@ -1,6 +1,6 @@
 
 
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://https://www.google.com/url?sa=i&url=https%3A%2F%2Fallhtaccess.info%2F25-gif-images-related-to-programming%2F&psig=AOvVaw3U8udx5ICz7SXqfhfouuyn&ust=1612029209105000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDOpPfawe4CFQAAAAAdAAAAABAJ" width="500" height="320" />
 <h1 align="center">Hi 👋, I'm Ashutosh Ranjan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
