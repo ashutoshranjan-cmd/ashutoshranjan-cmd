@@ -15,11 +15,12 @@
 - 🌱 I’m currently learning **python and html**
 
 - 📫 How to reach me **kumarashu493@gamil.com**
+<img align="right" alt="GIF" src="https://media2.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="200" height="120" />
+
 
 - 📄 Know about my experiences I like Typing and Drawing.
 
 - ⚡ Fun fact **I think i am funny but actually and pretty boring**
-<img align="right" alt="GIF" src="https://media2.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="200" height="120" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
