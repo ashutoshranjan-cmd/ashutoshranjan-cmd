@@ -43,4 +43,4 @@
 
 <p>&nbsp;<img align="top right" src="https://github-readme-stats.vercel.app/api?username=ashutoshranjan-cmd&show_icons=true&locale=en" alt="ashutoshranjan-cmd" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutoshranjan-cmd&show_icons=true&locale=en&layout=compact" alt="ashutoshranjan-cmd" /></p>
+<p><img align="top left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutoshranjan-cmd&show_icons=true&locale=en&layout=compact" alt="ashutoshranjan-cmd" /></p>
