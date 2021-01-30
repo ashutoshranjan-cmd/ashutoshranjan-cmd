@@ -2,7 +2,7 @@
 
  <img align="top" alt="GIF" src="https://scontent.fixr3-1.fna.fbcdn.net/v/t1.0-9/10169392_1424458284471428_7608566089044105851_n.png?_nc_cat=110&ccb=2&_nc_sid=85a577&_nc_ohc=p5FCTpdA9J0AX-D2WgP&_nc_ht=scontent.fixr3-1.fna&oh=94360d91ea5b4f6006a783db2dcc0a76&oe=60399212" width="1000" height="220" />
 
- <img align="right" alt="GIF" src="https://media2.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="200" height="120" />
+ 
 <h1 align="center">Hi 👋, I'm Ashutosh Ranjan</h1>
 <h3 align="center">A BCA student from  Ln Mishra Institute Patana India</h3>
 
@@ -19,6 +19,7 @@
 - 📄 Know about my experiences I like Typing and Drawing.
 
 - ⚡ Fun fact **I think i am funny but actually and pretty boring**
+<img align="right" alt="GIF" src="https://media2.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="200" height="120" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
