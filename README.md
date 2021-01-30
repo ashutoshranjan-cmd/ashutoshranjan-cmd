@@ -4,7 +4,7 @@
 
  <img align="right" alt="GIF" src="https://media2.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="200" height="120" />
 <h1 align="center">Hi 👋, I'm Ashutosh Ranjan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A BCA student from  Ln Mishra Institute Patana India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutoshranjan-cmd&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshranjan-cmd" /> </p>
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **kumarashu493@gamil.com**
 
-- 📄 Know about my experiences [I like tying](I like tying)
+- 📄 Know about my experiences I like Typing and Drawing.
 
 - ⚡ Fun fact **I think i am funny but actually and pretty boring**
 
