@@ -41,6 +41,6 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutoshranjan-cmd&" alt="ashutoshranjan-cmd" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ashutoshranjan-cmd&show_icons=true&locale=en" alt="ashutoshranjan-cmd" /></p>
+<p>&nbsp;<img align="topright" src="https://github-readme-stats.vercel.app/api?username=ashutoshranjan-cmd&show_icons=true&locale=en" alt="ashutoshranjan-cmd" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutoshranjan-cmd&show_icons=true&locale=en&layout=compact" alt="ashutoshranjan-cmd" /></p>
