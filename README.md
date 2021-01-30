@@ -11,7 +11,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashutoshranjan-cmd" alt="ashutoshranjan-cmd" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/kumashu493?s=09" target="blank"><img src="https://img.shields.io/twitter/follow/kumashu493?s=09?logo=twitter&style=for-the-badge" alt="https://twitter.com/kumashu493?s=09" /></a> </p>
-<img align="right" alt="GIF" src="https://media2.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="200" height="120" />
+<img align="right" alt="GIF" src="https://media2.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="500" height="320" />
 
 - 🌱 I’m currently learning **python and html**
 
