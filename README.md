@@ -1,7 +1,6 @@
 
 
- <img align="top" alt="GIF" src="https://scontent.fixr3-1.fna.fbcdn.net/v/t1.0-9/10169392_1424458284471428_7608566089044105851_n.png?_nc_cat=110&ccb=2&_nc_sid=85a577&_nc_ohc=p5FCTpdA9J0AX-D2WgP&_nc_ht=scontent.fixr3-1.fna&oh=94360d91ea5b4f6006a783db2dcc0a76&oe=60399212" width="1000" height="220" />
-
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Floveofprogramming%2F&psig=AOvVaw3_Ede6lQmTo4G5zCRgkiUf&ust=1619236462680000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNCGgoW8k_ACFQAAAAAdAAAAABAD
  
 <h1 align="center">Hi 👋, I'm Ashutosh Ranjan</h1>
 <h3 align="center">A BCA student from  Ln Mishra Institute Patna India</h3>
