@@ -1,6 +1,4 @@
 
-<img align="right" alt="GIF" src="![image](https://user-images.githubusercontent.com/72221793/115816360-5eb3a780-a416-11eb-8bac-4a09732ea250.png)
-" width="300" height="220" />
 
 
  
