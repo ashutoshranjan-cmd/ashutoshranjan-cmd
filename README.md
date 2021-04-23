@@ -1,6 +1,7 @@
 
+<img align="right" alt="GIF" src="https://www.facebook.com/loveofprogramming/photos/a.1424458274471429/1424458284471428/" width="300" height="220" />
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Floveofprogramming%2F&psig=AOvVaw3_Ede6lQmTo4G5zCRgkiUf&ust=1619236462680000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNCGgoW8k_ACFQAAAAAdAAAAABAD
+
  
 <h1 align="center">Hi 👋, I'm Ashutosh Ranjan</h1>
 <h3 align="center">A BCA student from  Ln Mishra Institute Patna India</h3>
