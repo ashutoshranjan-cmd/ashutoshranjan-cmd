@@ -1,9 +1,10 @@
 
 
 
- 
-<h1 align="center">Hi 👋, I'm Ashutosh Ranjan</h1>
-<h3 align="center">A BCA student from  Ln Mishra Institute Patna India</h3>
+<h1 align = "center"> <img src="https://www.pngarts.com/files/8/Apex-Legends-Logo-PNG-Download-Image.png" alt="loading" height="200px" width="200px" />
+ </h1>
+<h1 align="center">HELLO ! I AM ASHUTOSH RANJAN</h1>
+<h3 align="center">A BCA student from  LN Mishra Institute Patna India</h3>
 <h1 align="center"><img src="https://images.unsplash.com/photo-1610576660726-1b2704ee0550?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=876&q=80" alt ="loading" height="300px" width="800px"/></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutoshranjan-cmd&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshranjan-cmd" /> </p>
@@ -38,9 +39,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 <p><img align="topright" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutoshranjan-cmd&show_icons=true&locale=en&layout=compact" alt="ashutoshranjan-cmd" /></p>
-<p><img align="bottomleft" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutoshranjan-cmd&" alt="ashutoshranjan-cmd" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutoshranjan-cmd&" alt="ashutoshranjan-cmd" width="450px"/></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutoshranjan-cmd&show_icons=true&locale=en" alt="ashutoshranjan-cmd" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ashutoshranjan-cmd&show_icons=true&locale=en" alt="ashutoshranjan-cmd" width ="450px"/></p>
 
 
