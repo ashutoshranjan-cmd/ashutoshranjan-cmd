@@ -4,11 +4,12 @@
  
 <h1 align="center">Hi 👋, I'm Ashutosh Ranjan</h1>
 <h3 align="center">A BCA student from  Ln Mishra Institute Patna India</h3>
+<h1 align="center"><img src="https://images.unsplash.com/photo-1610576660726-1b2704ee0550?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=876&q=80" alt ="loading" height="300px" width="800px"/></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutoshranjan-cmd&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshranjan-cmd" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashutoshranjan-cmd" alt="ashutoshranjan-cmd" /></a> </p>
-<img align="right" alt="GIF" src="https://media2.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="300" height="220" />
+<img align="right" alt="GIF" src="https://i.giphy.com/media/26tn33aiTi1jkl6H6/giphy.webp" width="300" height="220" />
 
 <p align="left"> <a href="https://twitter.com/kumashu493?s=09" target="blank"><img src="https://img.shields.io/twitter/follow/kumashu493?s=09?logo=twitter&style=for-the-badge" alt="https://twitter.com/kumashu493?s=09" /></a> </p>
 
