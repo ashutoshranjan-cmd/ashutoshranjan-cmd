@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences I like Typing and Drawing.
 
-- ⚡ Fun fact **I think i am funny but actually i am pretty boring**
+- ⚡ Fun fact **I think i am funny but actually i am boring person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
