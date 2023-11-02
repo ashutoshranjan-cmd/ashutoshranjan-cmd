@@ -4,7 +4,7 @@
 <h1 align = "center"> <img src="https://www.pngarts.com/files/8/Apex-Legends-Logo-PNG-Download-Image.png" alt="loading" height="150px" width="150px" />
  </h1>
 <h1 align="center">HELLO ! I AM ASHUTOSH RANJAN</h1>
-<h3 align="center">A BCA student from  LN Mishra Institute Patna India</h3>
+<h3 align="center">A MCA student from Chandigarh University Punjab Mohali</h3>
 <h1 align="center"><img src="https://images.unsplash.com/photo-1610576660726-1b2704ee0550?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=876&q=80" alt ="loading" height="300px" width="800px"/></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutoshranjan-cmd&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshranjan-cmd" /> </p>
